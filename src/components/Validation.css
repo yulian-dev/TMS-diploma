@@ -1,0 +1,9 @@
+.container-validation {
+    margin: 0 auto;
+    max-width: 1140px;
+}
+
+.needs-validation-gap {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}

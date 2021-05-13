@@ -1,0 +1,22 @@
+.container-table {
+    margin: 4rem auto 0;
+    max-width: 1140px;
+}
+
+table tr td:nth-child(3) {
+    width: 25%;
+}
+
+.number-input input {
+    padding: .5rem;
+    max-width: 4rem;
+    text-align: center;
+}
+
+.number-input input [type=number] {
+    text-align: center;
+}
+
+.btn {
+    padding: .5rem 1rem;
+}

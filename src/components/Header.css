@@ -1,0 +1,19 @@
+.white-text span {
+    color: #ff3547;
+}
+
+.button-cart {
+    margin-right: 1rem;
+}
+
+.cart-icon {
+    margin-right: .2rem;
+}
+
+.button-cart .btn {
+    padding: .3rem .3rem;
+}
+
+.btn .badge {
+    top: -2px!important;
+}

@@ -1,0 +1,25 @@
+.row {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.col-md-4 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.card .view {
+    height: 31vh;
+}
+
+.card .view img {
+    height: 300px;
+    object-fit: cover;
+}
+
+@media (min-width: 768px) {
+    .col-md-4 {
+        flex: 0 0 20%;
+        max-width: 20%;
+    }
+}
